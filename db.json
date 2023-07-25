@@ -1,72 +1,31 @@
 {
-  {  
-      name:'arun',
-      gender:'Male',
-      physics:90,
-      maths:94,
-      english:78
-   },
-  {  
-      name:'Bashir',
-      gender:'Male',
-      physics:88,
-      maths:84,
-      english:90
-   },
-   {  
-      name:'Catherine',
-      gender:'Female',
-      physics:95,
-      maths:99,
-      english:99
-   },
-  {  
-      name:'Deepika',
-      gender:'Female',
-      physics:70,
-      maths:85,
-      english:80
-   },
-  {  
-      name:'Sam',
-      gender:'Male',
-      physics:89,
-      maths:90,
-      english:95
-   },
-  {  
-      name:'Shamala',
-      gender:'Female',
-      physics:84,
-      maths:79,
-      english:85
-   },
-  {  
-      name:'Karthick',
-      gender:'Male',
-      physics:80,
-      maths:76,
-      english:85
-   },
-  {  
-      name:'Sai Naren',
-      gender:'Male',
-      physics:100,
-      maths:96,
-      english:90
-   },
-  {  
-      name:'Sakthi',
-      gender:'Male',
-      physics:79,
-      maths:92,
-      english:83
-   },
-  {  
-      name:'Yamini',
-      gender:'Female',
-      physics:98,
-      maths:94,
-      english:99
-   }
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
