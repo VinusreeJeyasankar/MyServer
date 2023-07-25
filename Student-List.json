@@ -68,5 +68,19 @@
       "physics":"98",
       "maths":"94",
       "english":"99"
+   },
+   {  
+      "name":"Yokesh",
+      "gender":"Male",
+      "physics":"87",
+      "maths":"91",
+      "english":"80"
+   },
+   {  
+      "name":"Zara",
+      "gender":"Female",
+      "physics":"97",
+      "maths":"82",
+      "english":"88"
    }
 ]
