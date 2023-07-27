@@ -1,33 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 3
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "students": [  
     {"Name":"Arun Pratap", "Profile_Picture":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png", "Roll-No":"01ST01", "Age":"21", "Gender":"Male", "Course":"Full Stack Developer", "Course-Duration":"6 Months", "Fees":"30000", "Status":"Paid", "Date-of-joining":"23/06/2022"},
     {"Name":"Samantha Lee", "Profile_Picture":"https://wallpapers.com/images/hd/cute-girl-profile-vector-art-7yny8leemk0u337t.jpg", "Roll-No":"02ST01", "Age":"31", "Gender":"Female", "Course":"French B2 Training", "Course-Duration":"6 Months", "Fees":"20000", "Status":"Paid", "Date-of-joining":"02/02/2023"},
@@ -60,35 +31,4 @@
     {"Name":"Ryan Lee", "Profile_Picture":"https://cdn-icons-png.flaticon.com/512/3135/3135715.png", "Roll-No":"29ST01", "Age":"25", "Gender":"Male", "Course":"Spanish A2 Training", "Course-Duration":"4 Months", "Fees":"12000", "Status":"Not-Paid", "Date-of-joining":"31/07/2023"},
     {"Name":"Aaliyah Johnson", "Profile_Picture":"https://wallpapers.com/images/hd/cute-girl-profile-vector-art-7yny8leemk0u337t.jpg", "Roll-No":"30ST01", "Age":"29", "Gender":"Female", "Course":"French B1 Training", "Course-Duration":"5 Months", "Fees":"15000", "Status":"Paid", "Date-of-joining":"01/09/2022"}
 ],
-  "Recipe":[ 
-  { 
-      "title": "chicken biryani",    
-      "description": "This chicken biryani recipe has been one of the most requested reader recipes and I'm so excited to share it with you today. Succulent, juicy pieces of chicken are cooked in a yogurt marinade and then layered with crispy onions, coriander, mint and basmati rice to give you a dish that the entire family will enjoy. I've broken the process step by step and made a recipe video for this chicken biryani so that you can make this restaurant style biryani at home",  
-      "duration": "2h",    
-      "image": "https://myfoodstory.com/wp-content/uploads/2018/09/The-Best-Chicken-Biryani-Recipe-2.jpg"  
-  }, 
-  {   
-      "title": "Coconut Chutney",   
-      "description": "Coconut Chutney is a delightful South Indian condiment that pairs beautifully with breakfast and snack dishes like Idli, Dosa, Uttapam and Medu Vada. Here I share two simple recipes – a classic coconut chutney recipe with spice tempering, as well as a quick, hotel-style recipe that skips tempering. Learn how to make this essential Indian side dish with my easy-to-follow step-by-step photos and a video!", 
-      "duration": "1h 30m",   
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/coconut-chutney-1-1024x1536.jpg"  
-  },  
-  {   
-      "title": "Tomato Rice Recipe",    
-      "description": "This easy, quick and delicious Tomato Rice recipe is a favorite staple dish from the Tamil Nadu state of South India. Also known as Thakkali Sadam in Tamil language, this one pot wonder is tasty, healthy and perfect to pack in a tiffin for lunch on the go. While this tomato rice is a tad spicy, you can easily adjust the heat to your liking. Serve it plain, or with crispy papad and boondi raita or any raita variety that you like. It makes a wonderfully filling and light lunch!",
-      "duration": "45m",    
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/06/tomato-rice-recipe.jpg"
-  },  
-  {    
-      "title": "Wonder Cake",
-      "description": "Our talented bakers combine flour, sugar, butter, eggs, milk and vanilla to create a soft and moist sponge cake which may seem simple yet is the perfect base for showcasing the sweet coconut topping that makes this dessert such a winner.",    
-      "image": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/juvaireya-r20171122233435484.jpeg"
-  },
-  {    
-      "title": "Egg Masala Curry Recipe",
-      "description": "Egg being the wonderful source of proteins can be used to make many delicious dishes. One such amazing dish is that of Egg Masala Curry where boiled eggs are just simmered in spicy masala gravy. It has a nice tangy taste of tomatoes coupled with the flavors and taste of the spices that are used. You can always use leftover eggs from the breakfast or a party and toss it in a curry when you doesn't feel like cooking elaborate dishes but still like to have a delicious, scrumptious meal for dinner.",
-      "duration": "3h",    
-      "image": "https://c.ndtvimg.com/2019-11/aud73doo_egg-curry_625x300_04_November_19.jpg"  
-  }]
-
 }
