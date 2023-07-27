@@ -25,9 +25,6 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "students": [  
     {"Name":"Arun Pratap", "Roll-No":"01ST01", "Age":"21", "Gender":"Male", "Course":"Full Stack Developer", "Course-Duration":"6 Months", "Fees":"30000", "Status":"Paid", "Date-of-joining":"23/06/2022"},
     {"Name":"Samantha Lee", "Roll-No":"02ST01", "Age":"31", "Gender":"Female", "Course":"French B2 Training", "Course-Duration":"6 Months", "Fees":"20000", "Status":"Paid", "Date-of-joining":"02/02/2023"},
@@ -59,5 +56,8 @@
     {"Name":"Grace Chen", "Roll-No":"28ST01", "Age":"22", "Gender":"Female", "Course":"Japanese N4 Training", "Course-Duration":"6 Months", "Fees":"18000", "Status":"Paid", "Date-of-joining":"30/06/2023"},
     {"Name":"Ryan Lee", "Roll-No":"29ST01", "Age":"25", "Gender":"Male", "Course":"Spanish A2 Training", "Course-Duration":"4 Months", "Fees":"12000", "Status":"Not-Paid", "Date-of-joining":"31/07/2023"},
     {"Name":"Aaliyah Johnson", "Roll-No":"30ST01", "Age":"29", "Gender":"Female", "Course":"French B1 Training", "Course-Duration":"5 Months", "Fees":"15000", "Status":"Paid", "Date-of-joining":"01/09/2022"}
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
